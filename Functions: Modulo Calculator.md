@@ -12,7 +12,6 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 ```python
-# Define a function to compute modulo
 def result(a, b):
     print("Modulo result:", a % b)
 
@@ -20,7 +19,6 @@ def result(a, b):
 a = int(input("Enter the first number: "))
 b = int(input("Enter the second number: "))
 
-# Call the function with user-provided values
 result(a, b)
 ```
 
